@@ -1,1 +1,0 @@
-# Mpa_Karnaugh
